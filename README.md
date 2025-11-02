@@ -1,4 +1,4 @@
-# 📱 CSE489 Assignment 2 – Flutter Multimedia Showcase
+# 📱 A Basic Android Navigation System App
 
 A Cupertino-styled Flutter lab that demonstrates broadcast receivers, media playback, and gesture tooling in one cohesive assignment app.
 
@@ -6,6 +6,15 @@ A Cupertino-styled Flutter lab that demonstrates broadcast receivers, media play
 ![Dart](https://img.shields.io/badge/Dart-3.9%2B-0175C2?style=for-the-badge&logo=dart)
 ![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20iOS%20%7C%20Web-0A7EA4?style=for-the-badge&logo=googleplay)
 ![Status](https://img.shields.io/badge/Status-Assignment--Ready-34C759?style=for-the-badge&logo=apple)
+
+## [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/6iqIL08NEbQ)
+
+## Preview
+<img width="1920" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/d598c772-6f15-42f6-ab60-7f132203c2ef" />
+
+<img width="1920" height="1080" alt="photo-collage png (1)" src="https://github.com/user-attachments/assets/a4c22f35-e2ca-4a90-9a5b-e056a2e5811b" />
+
+
 
 ## ✨ Features
 
